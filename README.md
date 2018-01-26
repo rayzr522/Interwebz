@@ -6,4 +6,4 @@
 
 ## Join Me
 
-[Badge](https://github.com/Rayzr522/ProjectResources/raw/master/RayzrDev/badge-small.png)(https://discord.io/rayzrdevofficial)
+[Badge][(https://github.com/Rayzr522/ProjectResources/raw/master/RayzrDev/badge-small.png)](https://discord.io/rayzrdevofficial)
